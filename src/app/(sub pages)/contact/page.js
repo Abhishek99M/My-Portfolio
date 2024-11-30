@@ -24,6 +24,7 @@ export default function Contact() {
           </h1>
           <p className="text-center font-light text-sm xs:text-base">
           Enter a circle of magic, where your words become part of the universe story. Whether you are here to create together, uncover secrets, or share your journey, your messages are valued in this realm. Use the form below to send your thoughts through the mystical network and await a magical reply. Each message is a spark in this enchanted world, ready to bring your story to life.
+
           </p>
         </div>
         <Form />
