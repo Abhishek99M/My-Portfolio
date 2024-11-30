@@ -21,7 +21,7 @@ return (
         precision, crafting seamless portals (websites) that connect 
         users across the digital universe. I am always eager to explore new 
         technologies and push the boundaries of web development.
-        Whether it's optimizing performance or improving user experience, 
+        Whether it&apos;s optimizing performance or improving user experience, 
         I am committed to delivering top-tier solutions. The ancient arts of the
         Jamstack empower me to create fast, secure, and dynamic experiences,
         while my design skills ensure every creation is not only functional
