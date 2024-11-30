@@ -22,7 +22,7 @@ return (
         users across the digital universe. I am always eager to explore new 
         technologies and push the boundaries of web development.
         Whether it&apos;s optimizing performance or improving user experience, 
-        I am committed to delivering top-tier solutions. The ancient arts of the
+        I am committed to delivering top tier solutions. The ancient arts of the
         Jamstack empower me to create fast, secure, and dynamic experiences,
         while my design skills ensure every creation is not only functional
         but visually captivating. Join me as I continue to explore new 
@@ -34,7 +34,7 @@ return (
         className={" col-span-full xs:col-span-6 lg:col-span-4 text-accent"}
     >
         <p className="font-light  text-xs sm:text-sm md:text-base">
-        Proficient in React.js and JavaScript, with Experience in Web Technologies & Data Science Projects. 
+        Proficient in React.js and JavaScript, with Experience in Web Technologies &amp; Data Science Projects. 
         </p>
     </ItemLayout>
 
