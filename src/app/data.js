@@ -29,7 +29,7 @@ export const projectsData = [
     name: "Real-EState",
     description: "Built a dynamic and responsive real estate platform with property listings, user authentication, real-time updates, and an interactive UI using React.js, Node.js, and MongoDB.",
     date: "2025-03-05",
-    demoLink: "https://real-e-state-flame.vercel.app",
+    demoLink: "https://real-e-state-frontend.vercel.app/",
   },
   {
     id: 3,
