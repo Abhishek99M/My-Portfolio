@@ -1,11 +1,4 @@
 {
-<<<<<<< HEAD
-  "devDependencies": {
-    "@babel/core": "^7.28.5",
-    "@babel/preset-env": "^7.28.5",
-    "@babel/preset-react": "^7.28.5",
-    "next": "^16.0.3"
-=======
   "name": "nextjs-creative-portfolio-starter-code-files",
   "version": "0.1.0",
   "private": true,
@@ -34,7 +27,10 @@
     "eslint": "^8",
     "eslint-config-next": "14.1.1",
     "postcss": "^8",
-    "tailwindcss": "^3.3.0"
->>>>>>> d1ce6f575859fe652a55a868b0493250be89a37b
+    "tailwindcss": "^3.3.0",
+     "@babel/core": "^7.28.5",
+    "@babel/preset-env": "^7.28.5",
+    "@babel/preset-react": "^7.28.5",
+    "next": "^16.0.3"
   }
 }
