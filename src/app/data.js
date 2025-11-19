@@ -117,7 +117,7 @@ export const BtnList = [
   },
   {
     label: "Resume",
-    link: "/Abhi_Resume.pdf",
+    link: "/Abhishek-Software-Engineer-CV.pdf",
     icon: "resume",
     newTab: true,
   },
